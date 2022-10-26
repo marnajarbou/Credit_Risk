@@ -31,7 +31,7 @@ I oversampled the data using the RandomOverSampler and SMOTE algorithms and unde
 - Precision high risk score is 4% and low risk score is 100%
 - Recall score for hight risk is at 72% and low risk at 91%
 
-Easy Ensemble AdaBoost Classifier
+### Easy Ensemble AdaBoost Classifier
 - The Balanced Accuracy Score is at 91%
 - Precision high risk score is 7% and low risk score is 100%
 - Recall score for hight risk is at 90% and low risk at 94%
